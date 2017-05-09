@@ -1,0 +1,11 @@
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\bin\Debug\DifferentUI.exe.config
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\bin\Debug\DifferentUI.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\bin\Debug\DifferentUI.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\bin\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\bin\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.Form1.resources
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.Properties.Resources.resources
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.csproj.GenerateResource.Cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\DifferentUI\obj\Debug\DifferentUI.pdb

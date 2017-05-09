@@ -1,0 +1,60 @@
+2017-03-22-10:27:20 -  The client Connected to Server
+
+2017-03-22-10:27:23 -  Server: hi
+
+2017-03-22-10:27:24 -  Server: heelo
+
+2017-03-22-10:27:26 -  Client: asd
+
+2017-03-22-10:27:33 -  Client: sdsd
+
+2017-03-22-10:27:54 -  The client Disconnected From Server
+
+
+2017-03-22-10:28:50 -  The client Connected to Server
+
+2017-03-22-10:28:52 -  Server: hi
+
+2017-03-22-10:28:54 -  Server: hello
+
+2017-03-22-10:28:57 -  Client: hi
+
+2017-03-22-10:29:01 -  The client Disconnected From Server
+
+
+2017-03-22-10:29:34 -  The client Connected to Server
+
+2017-03-22-10:29:36 -  Server: hi
+
+2017-03-22-10:29:38 -  Server: hello
+
+2017-03-22-10:29:40 -  Client: asd
+
+2017-03-22-10:29:41 -  The client Disconnected From Server
+
+
+2017-03-22-10:40:58 -  The client Connected to Server
+
+2017-03-22-10:41:05 -  Server: test logger
+
+2017-03-22-10:41:09 -  Client: test
+
+2017-03-22-10:41:10 -  The client Disconnected From Server
+
+
+2017-03-22-10:43:20 -  The client Connected to Server
+
+2017-03-22-10:43:22 -  Client: asd
+
+2017-03-22-10:43:23 -  The client Disconnected From Server
+
+
+2017-03-22-11:20:03 -  The client Connected to Server
+
+2017-03-22-11:23:47 -  The client Connected to Server
+
+2017-03-22-11:23:49 -  Client: test
+
+2017-03-22-11:23:51 -  The client Disconnected From Server
+
+

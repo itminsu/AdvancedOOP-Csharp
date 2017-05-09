@@ -1,0 +1,14 @@
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatLib\obj\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\obj\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\LoggerLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\LoggerLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\log4net.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\ChatLib\bin\Debug\log4net.xml

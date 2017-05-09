@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<log4net>
+  <appender name="RollingFile" type="log4net.Appender.RollingFileAppender">
+    <file value="C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\TestLog.log" />
+    <appendToFile value="true" />
+    <datePattern value="-yyyy-MM-dd" />
+    <rollingStyle value="Date" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%d - %m%n" />
+    </layout>
+  </appender>
+  <root>
+    <level value="Info" />
+    <appender-ref ref="RollingFile" />
+  </root>
+</log4net>

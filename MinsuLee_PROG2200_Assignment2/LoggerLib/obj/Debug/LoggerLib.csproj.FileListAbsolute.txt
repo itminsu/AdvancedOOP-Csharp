@@ -1,0 +1,7 @@
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\bin\Debug\LoggerLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\bin\Debug\LoggerLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\obj\Debug\LoggerLib.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\obj\Debug\LoggerLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\obj\Debug\LoggerLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\bin\Debug\log4net.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\LoggerLib\bin\Debug\log4net.xml

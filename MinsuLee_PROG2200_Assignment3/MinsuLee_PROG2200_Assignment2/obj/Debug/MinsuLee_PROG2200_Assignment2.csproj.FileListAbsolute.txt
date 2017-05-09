@@ -1,0 +1,16 @@
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\MinsuLee_PROG2200_Assignment2.exe.config
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\MinsuLee_PROG2200_Assignment2.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\MinsuLee_PROG2200_Assignment2.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.Form1.resources
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.Properties.Resources.resources
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.csproj.GenerateResource.Cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\LoggerLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment2\MinsuLee_PROG2200_Assignment2\bin\Debug\LoggerLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment3\MinsuLee_PROG2200_Assignment2\bin\Debug\MinsuLee_PROG2200_Assignment2.exe.config
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment3\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment3\MinsuLee_PROG2200_Assignment2\obj\Debug\MinsuLee_PROG2200_Assignment2.pdb

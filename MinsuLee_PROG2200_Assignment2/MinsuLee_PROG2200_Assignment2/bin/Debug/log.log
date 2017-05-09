@@ -1,0 +1,9 @@
+2017-03-07 21:11:53,417 INFO LoggerLib.Log4net - 2017-03-07-21:11:53 The client Connected to Server
+ 
+2017-03-07 21:11:55,644 INFO LoggerLib.Log4net - 2017-03-07-21:11:55 Server: hi
+ 
+2017-03-07 21:11:58,787 INFO LoggerLib.Log4net - 2017-03-07-21:11:58 Client: sd
+ 
+2017-03-07 21:12:03,046 INFO LoggerLib.Log4net - 2017-03-07-21:12:03 The client Disconnected From Server
+
+ 

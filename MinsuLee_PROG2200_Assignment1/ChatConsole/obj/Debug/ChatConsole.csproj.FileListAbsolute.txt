@@ -1,0 +1,8 @@
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\bin\Debug\ChatConsole.exe.config
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\bin\Debug\ChatConsole.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\bin\Debug\ChatConsole.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\bin\Debug\ChatLib.dll
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\bin\Debug\ChatLib.pdb
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\obj\Debug\ChatConsole.csprojResolveAssemblyReference.cache
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\obj\Debug\ChatConsole.exe
+C:\Users\Minsu\Source\Repos\Lee-Minsu-w0293156\MinsuLee_PROG2200_Assignment1\ChatConsole\obj\Debug\ChatConsole.pdb
